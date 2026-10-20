@@ -1,4 +1,3 @@
-#Contributers: Ciaran Scullion, Matthew Kerr, Luke Mcmorrow
 import pandas as pd
 import matplotlib.pyplot as plt 
 
